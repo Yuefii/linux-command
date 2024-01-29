@@ -1,10 +1,12 @@
 # KUMPULAN COMMAND LINE LINUX
 
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 Repository ini bersifat open source kalian boleh menambahkan tutorial, cara menginstall packages, fix error dll.
 
-mostly semua harus tentang Linux.
+mostly harus tentang Linux.
 
 ## Ini beberapa Tutorial yang telah dibuat: 
 
-- [`docker`](docker/): semua tentang docker
-- [`node js`](node-js): semua tentang node js
+- [`Docker`](docker/): semua tentang docker.
+- [`Node js`](node-js): semua tentang node js.
